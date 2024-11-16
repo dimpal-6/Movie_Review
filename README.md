@@ -1,1 +1,3 @@
 # Movie_Review
+
+This project focuses on analyzing the sentiment of movie reviews to determine whether they are positive or negative. By using Natural Language Processing (NLP) techniques and Machine Learning algorithms, the system processes textual data and predicts the sentiment of each review. Using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) for feature extraction and supervised learning models for classification, this project delivers reliable insights into audience opinions.  This tool is useful for gaining insights into audience opinions and can help businesses or individuals understand public sentiment towards movies.
